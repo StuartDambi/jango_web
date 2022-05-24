@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src="/logo.PNG" className="App-logo" alt="logo" />
+        <img src="https://res.cloudinary.com/stuartdambi/image/upload/v1653375357/jangobarista/logo_rq7pio.png" className="App-logo" alt="logo" />
         <p>
           Jango Barista & Coffee Educators <br /> <code>Under Development</code>
         </p>
